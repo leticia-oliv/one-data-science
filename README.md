@@ -30,7 +30,7 @@ Ao final da jornada, ainda temos a chance de participar da comunidade **AlumniON
 
 ## ✅ Progresso dos cursos
 
-- [o] Python para Data Science: primeiros passos
+- [x] Python para Data Science: primeiros passos
 - [ ] Python para Data Science: trabalhando com funções, estruturas de dados e exceções
 - [ ] Praticando Python para Data Science: Challenge Alura Store
 - [ ] Modelagem de dados: identificando entidades, atributos, relacionamentos
